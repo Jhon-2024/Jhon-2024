@@ -1,8 +1,10 @@
 ## Olá 👋
 
-- 🔭 Atualmente estou trabalhando como Suporte N2 no Ministério da Saúde
-- 🏢 CTC - Connectcom
-- 🌱 Cursando: Análise e Desenvolvimento de Sistemas - CEUB 
+- 🔭 Atualmente estou trabalhando como Téc.em Secretariado no Ministério da Saúde
+- 🏢 Ágil Empresas 
+- 🌱 Cursando: Análise e Desenvolvimento de Sistemas - IESB
+- 🌱 Cursando: Técnico em Informática - ETB
+  
 
 <p align="left">
      <a href="https://github.com/DaviMotaDev?tab=repositories&sort=stargazers">
@@ -23,7 +25,7 @@
 
 ## 📱Redes Sociais
 
-<a href="https://www.instagram.com/daviziin_mt/">   
+<a href="https://www.instagram.com/Jhonatan Peelé/">   
      <img 
          align="left" 
          alt="HTML"
@@ -37,8 +39,7 @@
          alt="LinkedIn"
          title="LinkedIn" 
          width="40px"
-         src="linkedin![Uploading icons8-linkedin.svg…]()
-.ico"
+         src="linkedin.svg"
      />
      
 <br/>
@@ -65,11 +66,11 @@
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
